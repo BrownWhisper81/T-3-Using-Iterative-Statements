@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-3 Using Iterative Statements", "T-3 Using Iterative Statements.csproj", "{25E62947-9878-4DA4-BF37-4490AC2C44AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E62947-9878-4DA4-BF37-4490AC2C44AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E62947-9878-4DA4-BF37-4490AC2C44AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E62947-9878-4DA4-BF37-4490AC2C44AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E62947-9878-4DA4-BF37-4490AC2C44AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5DFD14-4344-4468-A3A6-65CD4625008D}
+	EndGlobalSection
+EndGlobal
